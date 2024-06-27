@@ -6,7 +6,7 @@
 2. [Networking](#Networking)
 3. [Tech Stack Used](#Tech-Stack-Used)
 4. [Video Walkthrough](#Video-Walkthrough)
-5. [Acknowledgement](#Acknowledgement)
+5. [Closing Notes](#Closing-Notes)
 
 
 ## Overview
@@ -45,13 +45,20 @@ GitHub is used for version control and project management. It allows multiple de
 
 Xcode is the primary development environment for iOS development. It includes tools for writing, debugging, and testing SwiftUI code. Xcode's simulator and device testing features ensure the app runs smoothly on various iOS devices.
 
+
 ## Video Walkthrough
+
+### Youtube Link
 
 [![Crypto Pulse In Action](https://img.youtube.com/vi/BgZcow7uSoY/0.jpg)](https://www.youtube.com/watch?v=BgZcow7uSoY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BgZcow7uSoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Embedded Video
 
 
-## Acknowledgement
+https://github.com/hkurdi/CryptoPulse/assets/121890234/2fb0a017-7b0a-4f45-b7d9-64ebdf5d21a6
 
-This is my first big project in Swift, and I am incredibly proud of what I have achieved. The journey has been challenging yet rewarding, and this project has helped me grow as a developer. I am excited to share it with the world and look forward to building even more sophisticated apps in the future. Also, I would like to note that this iOS app would not be where it is now without Nick Sarno and his amazing help with manuevering through Swift in order to make this application what it is today.
+
+## Closing Notes
+
+This is my first big project in Swift, and I am incredibly proud of what I have achieved. The journey has been challenging yet rewarding, and this project has helped me grow as a developer. I am excited to share it with the world and look forward to building even more sophisticated apps in the future. Also, I would like to note that this iOS app would not be where it is now without Nick Sarno and his amazing help with manuevering through Swift in order to make this application what it is today. And thank you to everyone that has supported me throughout this journey, I appreciate you all!
+
