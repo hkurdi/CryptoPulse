@@ -80,7 +80,6 @@
 		4E18C50D2C2C5EAC00776112 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		4E18C5102C2C5EE700776112 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E18C5122C2C62D900776112 /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
-		4E18C5142C2CD20500776112 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4E2DB1472C250B3300348CA1 /* CryptoPulse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptoPulse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E2DB14A2C250B3300348CA1 /* CryptoPulseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPulseApp.swift; sourceTree = "<group>"; };
 		4E2DB14E2C250B3500348CA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -202,7 +201,6 @@
 				4E2DB14E2C250B3500348CA1 /* Assets.xcassets */,
 				4E2DB1532C250B3500348CA1 /* Persistence.swift */,
 				4E2DB1552C250B3500348CA1 /* CryptoPulse.xcdatamodeld */,
-				4E18C5142C2CD20500776112 /* README.md */,
 			);
 			path = CryptoPulse;
 			sourceTree = "<group>";
